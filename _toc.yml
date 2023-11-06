@@ -32,3 +32,5 @@ parts:
     - title: Recommended tutorial on Git
       url: https://www.youtube.com/watch?v=HkdAHXoRtos
   - file: docs/week_5
+  - file: docs/week_6
+  - file: docs/week_7
